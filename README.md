@@ -28,7 +28,7 @@ the categories of products to be included are Men, Women, teens. – OR categor
 c. Obtain your connection string ( url or uri)
 d. Provide the screen snapshot of your MongoDB database showing the above steps from 1a – c.
  
-2. Using Visual st代 写COMP229、Java/python
+2. Using Visual st代 写COMP229、Java
 代做程序编程语言udio code as the IDE: (25 Marks)
 a. create a node.js App for the Marketplace by setting up the Express web server. Ensure to install all the necessary modules: express, mongoose, cors e.t.c.
 b. Run the app and provide a screen snapshot of it running in the browser as follows:
